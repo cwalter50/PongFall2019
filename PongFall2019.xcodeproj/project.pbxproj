@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3893EAB623956315003A51DF /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3893EAB523956315003A51DF /* GameOverScene.swift */; };
 		38D66958238C250600B37C15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D66957238C250600B37C15 /* AppDelegate.swift */; };
 		38D6695A238C250600B37C15 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 38D66959238C250600B37C15 /* GameScene.sks */; };
 		38D6695C238C250600B37C15 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 38D6695B238C250600B37C15 /* Actions.sks */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3893EAB523956315003A51DF /* GameOverScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
 		38D66954238C250600B37C15 /* PongFall2019.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PongFall2019.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D66957238C250600B37C15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		38D66959238C250600B37C15 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				38D66959238C250600B37C15 /* GameScene.sks */,
 				38D6695B238C250600B37C15 /* Actions.sks */,
 				38D6695D238C250600B37C15 /* GameScene.swift */,
+				3893EAB523956315003A51DF /* GameOverScene.swift */,
 				38D6695F238C250600B37C15 /* GameViewController.swift */,
 				38D66961238C250600B37C15 /* Main.storyboard */,
 				38D66964238C250A00B37C15 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			files = (
 				38D6695E238C250600B37C15 /* GameScene.swift in Sources */,
 				38D66960238C250600B37C15 /* GameViewController.swift in Sources */,
+				3893EAB623956315003A51DF /* GameOverScene.swift in Sources */,
 				38D66958238C250600B37C15 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
